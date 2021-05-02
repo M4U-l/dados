@@ -38,7 +38,7 @@ function jugar(){
 
   if((total_tiro==7 || total_tiro==11) && turno==1 )
   {
-    mostrarMensaje("Chepero");
+    mostrarMensaje("you win")
   }
   else
   {
