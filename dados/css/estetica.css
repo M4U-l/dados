@@ -56,7 +56,7 @@ body{
 body{
   margin: 0;
   padding: 0;
-  background: center/150% url("../imagenes/Fondo 2.jpg")
+  background: center/150% url("../imagenes/fondo.png")
 }
 .show{
   display:block;
